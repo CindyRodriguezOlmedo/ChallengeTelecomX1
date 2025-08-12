@@ -46,15 +46,6 @@ Puedes ejecutar y explorar el notebook interactivo con todo el análisis en Goog
 
 ---
 
-## 🔗 Enlaces de interés
-
-- Repositorio oficial del challenge ONE Data Science LATAM:  
-  [https://github.com/ingridcristh/challenge2-data-science-LATAM](https://github.com/ingridcristh/challenge2-data-science-LATAM)  
-- Dataset fuente (API GitHub raw):  
-  [TelecomX_Data.json](https://raw.githubusercontent.com/ingridcristh/challenge2-data-science-LATAM/main/TelecomX_Data.json)
-
----
-
 ## 🤝 Contacto
 
 Para dudas o sugerencias, puedes contactarme en mi perfil de GitHub o por correo electrónico.
